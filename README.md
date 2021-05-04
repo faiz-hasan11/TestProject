@@ -1,4 +1,4 @@
-# Health Hack
+# Test Project
 This website is authentication form. 
 
 ## Installation
@@ -33,11 +33,10 @@ npm start
 
 ## Screenshots
 * Landing Page
-![LandingPage](https://github.com/faiz-hasan11/Health-Hack/blob/master/Screenshots/landing.png)
-* Input Page For Disease Prediction
-![Input Page](https://github.com/faiz-hasan11/Health-Hack/blob/master/Screenshots/pred.png)
-* Enquiry Page
-![Enquiry Page](https://github.com/faiz-hasan11/Health-Hack/blob/master/Screenshots/enq.png)
-* BMI Page
-![BMI Page](https://github.com/faiz-hasan11/Health-Hack/blob/master/Screenshots/bmi.png)
+![LandingPage](https://github.com/faiz-hasan11/TestProject/blob/main/screenshots/home.png)
+* Registaration Page
+![Registaration Page](https://github.com/faiz-hasan11/TestProject/blob/main/screenshots/reg.png)
+* Login Page
+![Login Page](https://github.com/faiz-hasan11/TestProject/blob/main/screenshots/login.png)
+
 
